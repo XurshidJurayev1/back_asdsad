@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "xurshid web mern",
+  "mongoURL": "mongodb+srv://aris:12345@cluster0.7pr6l.mongodb.net/bmi_server_test?retryWrites=true&w=majority"
+}
+
